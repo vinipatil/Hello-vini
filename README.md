@@ -1,2 +1,5 @@
-# Hello-vini
-My first repository on GitHub
+# Module-2 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://github.com/vinipatil/Hello-vini/blob/main/mod2_solution/index.html)
